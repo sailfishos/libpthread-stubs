@@ -1,0 +1,13 @@
+* Tue Jun 14 2011 Liu, Xinyun <xinyun.liu@intel.com> - 0.3
+- Updated yaml file
+
+* Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 0.3
+- Updated with latest spectacle
+- Include YAML file in source rpm
+
+* Mon Feb 08 2010 Austin Zhang <austin.zhang@intel.com> 0.3
+- update to 0.3
+
+* Wed Nov 26 2008 Peng Li <peng.li@intel.com> 0.1
+- initial import libpthread-stubs 0.1
+
