@@ -1,9 +1,0 @@
-<package project="Mer:Trunk:Base" name="libpthread-stubs">
-  <title>PThread Stubs for XCB</title>
-  <description>PThread Stubs for XCB
-
-
-
-</description>
-  <url>http://xcb.freedesktop.org</url>
-</package>
