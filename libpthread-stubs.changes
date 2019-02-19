@@ -1,5 +1,6 @@
 * Tue Feb 19 2019 Matti Kosola <matti.kosola@jolla.com> - 0.4
 - Update to 0.4 version. JB#36174
+- Clean up building and packaging.
 
 * Tue Jun 14 2011 Liu Xinyun <xinyun.liu@intel.com> - 0.3
 - Updated yaml file
