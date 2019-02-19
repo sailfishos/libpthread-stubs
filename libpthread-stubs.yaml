@@ -3,7 +3,7 @@ Summary: PThread Stubs for XCB
 Description: |
     This library provides weak aliases for pthread functions not provided in libc
     or otherwise available by default
-Version: 0.3
+Version: 0.4
 Release: 1
 Group: System/X11
 License: MIT
